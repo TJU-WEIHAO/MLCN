@@ -1,4 +1,4 @@
 checkpoints/  
-&nbsp--seg_final.pth  
+  --seg_final.pth  
   --gmm_final.pth  
   --tom_final.pth
