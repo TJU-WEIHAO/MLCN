@@ -24,5 +24,7 @@ Install deformable convolution:
 > sh make.sh  
 
 # Pre-trained networks
-We provide pre-trained networks and the testing set from VITON dataset. Please download ./checkpoints the [CHECKPOINTS Google Drive folder](https://drive.google.com/drive/folders/1-CWgyodbc_kB0YCPIw89BSS6Oap6UtLc?usp=sharing) and put the downloaded files in ./checkpoints/ directory.
+We provide pre-trained networks trained on the VITON dataset. Please download *.pth from the [CHECKPOINTS Google Drive folder](https://drive.google.com/drive/folders/1-CWgyodbc_kB0YCPIw89BSS6Oap6UtLc?usp=sharing) and put the downloaded files in ./checkpoints/ directory.
  
+# Testing
+We provide processed testing set. Please down the datasets.zip files from the [DATASET Google Drive folder](https://drive.google.com/file/d/1-HJNnFkLEjpXQs4s2BuxNPVPT-X6nwHr/view?usp=sharing) and unzip this files. test.py assumes that the downloaded files are placed in ./datasets/ directory.
