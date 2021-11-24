@@ -7,7 +7,7 @@ Clone this repository:
 > cd ./MLCN/
 
 Install PyTorch and other dependencies:
-> conda create -y -n [ENV] python=3.8
+> conda create -y -n [ENV] python=3.8  
 > conda activate [ENV]
 
 
