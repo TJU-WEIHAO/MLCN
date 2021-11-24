@@ -1,3 +1,6 @@
+# Disclaimer
+This is a repository of Multi-Level Consistency Network (MLCN) for CVPR2022 blind review !!!
+
 # MLCN — Official PyTorch Implementation
 **Title: "A Multi-Level Consistency Network for High-Fidelity Virtual Try-On"**  
 -------------------------------  Paper ID: 8343  -------------------------------
@@ -14,6 +17,8 @@ Install PyTorch and other dependencies:
 > pytorch == 1.8  
 > torchvision == 0.9.0  
 > opencv == 4.5.3  
+> scipy == 1.7.1  
+> pillow == 8.3.1 
 
 Install deformable convolution:  
 > sh make.sh  
