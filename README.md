@@ -30,7 +30,9 @@ We provide pre-trained networks trained on the VITON dataset. Please download *.
 We provide processed testing set. Please down the datasets.zip files from the [DATASET Google Drive folder](https://drive.google.com/file/d/1-HJNnFkLEjpXQs4s2BuxNPVPT-X6nwHr/view?usp=sharing) and unzip this files. test.py assumes that the downloaded files are placed in ./datasets/ directory.  
 If you want to evaluate the quantitative metrics, run:  
 > python test.py --list paired_list.txt  
+
 If you want to obtain the Qualitative results, run:  
 > python test.py --list unpaired_list.txt  
+
 The test results will be updata in the test_results files.  
 
