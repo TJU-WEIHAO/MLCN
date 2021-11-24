@@ -15,5 +15,7 @@ Install PyTorch and other dependencies:
 > torchvision == 0.9.0  
 > opencv == 4.5.3  
 
+Install deformable convolution:  
+> sh make.sh  
 
  
