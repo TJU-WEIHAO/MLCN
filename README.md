@@ -31,7 +31,7 @@ We provide processed testing set. Please down the datasets.zip files from the [D
 If you want to evaluate the quantitative metrics, run:  
 > python test.py --list paired_list.txt  
 
-If you want to obtain the Qualitative results, run:  
+If you want to obtain the qualitative results, run:  
 > python test.py --list unpaired_list.txt  
 
 The test results will be updata in the test_results files.  
