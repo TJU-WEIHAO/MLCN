@@ -1,5 +1,5 @@
 # Disclaimer
-This is a repository of Multi-Level Consistency Network (MLCN) for CVPR2022 blind review !!!
+This is a repository of Multi-Level Consistency Network (MLCN) !!!
 
 # MLCN — Official PyTorch Implementation
 **Title: "A Multi-Level Consistency Network for High-Fidelity Virtual Try-On"**  
