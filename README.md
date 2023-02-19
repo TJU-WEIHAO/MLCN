@@ -6,12 +6,14 @@ This is a repository of Multi-Level Consistency Network (MLCN) !!!
 -------------------------------  Paper ID: 8343  -------------------------------
 # Installation
 Clone this repository:  
-> git clone https://github.com/2022-CVPR-8343/MLCN.git  
+> git clone https://github.com/TJU-WEIHAO/MLCN.git  
 > cd ./MLCN/
 
+Network architecture:
+![1.jpg](https://github.com/TJU-WEIHAO/MLCN/network.png)
 Create a virtual environment:
-> conda create -n [ENV] python=3.8  
-> conda activate [ENV]
+> conda create -n [name] python=3.8  
+> conda activate [name]
 
 Install PyTorch and other dependencies:  
 > pytorch == 1.8  
