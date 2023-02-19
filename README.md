@@ -4,13 +4,15 @@ This is a repository of Multi-Level Consistency Network (MLCN) !!!
 # MLCN — Official PyTorch Implementation
 **Title: "A Multi-Level Consistency Network for High-Fidelity Virtual Try-On"**  
 
+# Network architecture:
+![1.jpg]([https://github.com/TJU-WEIHAO/MLCN/network.png](https://github.com/TJU-WEIHAO/MLCN/blob/main/network.png))
+
+
 # Installation
 Clone this repository:  
 > git clone https://github.com/TJU-WEIHAO/MLCN.git  
 > cd ./MLCN/
 
-Network architecture:
-![1.jpg](https://github.com/TJU-WEIHAO/MLCN/network.png)
 Create a virtual environment:
 > conda create -n [name] python=3.8  
 > conda activate [name]
