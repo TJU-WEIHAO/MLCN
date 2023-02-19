@@ -5,7 +5,7 @@ This is a repository of Multi-Level Consistency Network (MLCN) !!!
 **Title: "A Multi-Level Consistency Network for High-Fidelity Virtual Try-On"**  
 
 # Network architecture:
-![1.jpg](https://github.com/TJU-WEIHAO/MLCN/blob/main/network.png)
+![network.png](https://github.com/TJU-WEIHAO/MLCN/blob/main/network.png)
 
 
 # Installation
@@ -40,3 +40,5 @@ If you want to obtain the qualitative results, run:
 
 The test results will be updata in the test_results files.  
 
+# Experiments:
+![results.jpg](https://github.com/TJU-WEIHAO/MLCN/blob/main/results.jpg)
