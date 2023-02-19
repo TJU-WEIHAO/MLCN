@@ -5,7 +5,7 @@ This is a repository of Multi-Level Consistency Network (MLCN) !!!
 **Title: "A Multi-Level Consistency Network for High-Fidelity Virtual Try-On"**  
 
 # Network architecture:
-![1.jpg]([https://github.com/TJU-WEIHAO/MLCN/network.png](https://github.com/TJU-WEIHAO/MLCN/blob/main/network.png))
+![1.jpg](https://github.com/TJU-WEIHAO/MLCN/blob/main/network.png)
 
 
 # Installation
